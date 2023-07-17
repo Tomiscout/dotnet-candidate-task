@@ -1,1 +1,1 @@
-# .net-candidate-task
+We have some ugly code here. Your task is to refactor code, and improve performance - in other words, Do the best you can!
